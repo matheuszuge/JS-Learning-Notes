@@ -1,1 +1,1 @@
-# JAVASCRIPT Learning Notes
+# Javascript Learning Notes
